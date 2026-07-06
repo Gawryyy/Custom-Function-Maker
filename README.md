@@ -3,7 +3,9 @@ In this project you can make your own modules and compile them to DLL with zig t
 
 # Links
 Main Clumsy Source: https://github.com/jagt/clumsy
-Syntrix: 
+Syntrix: Will be in Releases (same goes for the BUILD version of the example module)
+Windivert: https://github.com/basil00/WinDivert
+IUPlib: https://www.tecgraf.puc-rio.br/iup/
 
 # clumsy Plugin SDK
 
