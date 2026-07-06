@@ -1,6 +1,10 @@
 # Custom-Function-Maker
 In this project you can make your own modules and compile them to DLL with zig to add them to my new program (Syntrix)
 
+# Links
+Main Clumsy Source: https://github.com/jagt/clumsy
+Syntrix: 
+
 # clumsy Plugin SDK
 
 This document explains how to write your own custom modules for clumsy as DLL plugins.
