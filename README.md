@@ -103,7 +103,7 @@ BOOL WINAPI DllMain(HINSTANCE hInst, DWORD reason, LPVOID reserved) {
 
 ## How to compile
 
-### MinGW / GCC (recommended, free)
+### MinGW / GCC (recommended)
 
 ```bash
 gcc -shared -O2 -o my_module.dll my_module.c ^
